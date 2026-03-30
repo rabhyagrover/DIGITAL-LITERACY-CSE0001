@@ -1,0 +1,26 @@
+🔒 General Digital Hygiene
+Enable Multi-Factor Authentication (MFA): Use 2FA on all academic, social media, and email accounts. This ensures that even if a password is leaked, an attacker cannot gain access without a second form of verification.
+
+Audit Your Digital Footprint: Periodically search for your name online. Remember that digital records are permanent, and small inconsistencies or "faked" skills on profiles can haunt your professional future.
+
+Practice "Strategic Deceleration": Avoid the "Velocity Trap" by slowing down. Taking a few extra seconds to verify a link or a sender’s identity can prevent significant mistakes.
+
+Verify Source Credibility: Before sharing news or academic resources in group chats, check for citations and official references to avoid spreading misinformation.
+
+Secure Your Devices: Ensure your laptop and smartphone have the latest security patches installed. Platforms are responsible for safety, but users must keep their tools updated to be effective.
+
+Be Skeptical of "Urgent" Requests: Scams often succeed by creating a false sense of urgency. If an email or message demands immediate action to avoid a "lockout" or "fine," it is likely a phishing attempt.
+
+
+💸 Financial & UPI Safety (India Specific)
+The "PIN is for Paying" Rule: Never enter your UPI PIN to receive money. Scammers often send "collect requests" disguised as "refunds" or "rewards." Remember: You only need a PIN to send money, never to receive it.
+
+Verify UPI IDs Before Confirming: Always double-check the recipient's name that appears in the app (like GPay, PhonePe, or Paytm) before hitting 'Proceed.' Verify that the name matches the person or business you intend to pay.
+
+
+🚨 How to Report Cyber Crime
+If you encounter a scam, experience financial fraud, or face online harassment, take immediate action through the official government channels:
+
+1.National Cyber Crime Reporting Portal: Visit cybercrime.gov.in to file an online complaint.
+
+2.National Helpline: Call 1930 immediately for financial frauds to increase the chances of freezing the fraudulent transaction.
