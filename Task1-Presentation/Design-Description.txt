@@ -1,0 +1,20 @@
+Task 1: Design Description
+Tool Used: Canva
+
+Design Title: Your Guide to Digital Literacy: Cyber Security
+
+Visual Overview: The infographic utilizes a dark navy-blue background with a subtle world map overlay, symbolizing the global nature of the digital landscape. I chose a high-contrast color palette—white and orange text against a dark background—to ensure maximum readability on mobile devices and desktop screens.
+
+Key Design Elements: * Visual Hierarchy: The title "CYBER SECURITY" is set in a bold, sans-serif typeface to immediately grab the viewer's attention. Smaller, colored headers like "Key Skills" and "Staying Safe Online" guide the eye to supporting information.
+
+Central Graphic: I incorporated a modern vector illustration showing a desktop and mobile device protected by a shield. This reinforces the theme of cross-platform safety and digital protection.
+
+Structured Content: Information is broken down into three distinct quadrants:
+
+Key Skills: Highlighting critical thinking and responsible use.
+
+Staying Safe Online: Providing actionable tips like using strong passwords.
+
+Importance: Listing the long-term benefits such as career success and lifelong learning.
+
+Interactivity & Engagement: The bottom of the poster features a clear, grounding mission statement: "Understanding, Using, and Creating a Digitally Responsible World." This acts as a call to action for the viewer to move beyond being a passive user to an active, responsible digital citizen.
